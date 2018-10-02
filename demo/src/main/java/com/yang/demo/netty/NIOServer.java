@@ -1,4 +1,4 @@
-package com.yang.demo.netty;
+/*package com.yang.demo.netty;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
@@ -88,3 +88,4 @@ public class NIOServer {
 	    }
 
 }
+*/
